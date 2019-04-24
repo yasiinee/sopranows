@@ -1,0 +1,13 @@
+{
+    "name": "rbinfo/sopranows",
+    "description": "soprano web service",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yassine",
+            "email": "yassinesaid5@gmail.com"
+        }
+    ],
+    "require": {}
+}
